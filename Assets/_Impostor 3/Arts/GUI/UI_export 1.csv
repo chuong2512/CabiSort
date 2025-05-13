@@ -1,0 +1,22 @@
+root[1]/Menu[2]/UI_Icon_gift code[10],490,697,108,116
+root[1]/Menu[2]/UI_icon_ads[9],488,1351,128,132
+root[1]/Menu[2]/UI_button_ads[8],631,1346,704,392
+root[1]/Menu[2]/UI_icon_vibrate_off[7],484,917,116,132
+root[1]/Menu[2]/UI_icon_vibrate_on[6],484,916,116,120
+root[1]/Menu[2]/UI_icon_sound_off[5],489,1132,124,96
+root[1]/Menu[2]/UI_icon_sound_on[4],489,1132,124,96
+root[1]/Menu[2]/UI_button_Menu[3],631,1129,464,152
+root[1]/Menu[2]/UI_icon_shop[2],485,1567,116,112
+root[1]/Menu[2]/UI_button_shop[1],631,1563,464,156
+root[1]/Menu[2]/UI_backMenu[0],632,1122,656,1152
+root[1]/complete level[1]/UI_Text_Next[4],624.5,725.5,297,85
+root[1]/complete level[1]/UI_Button_yellow[3],618,720,452,236
+root[1]/complete level[1]/UI_Button_blue[2],618,720,452,236
+root[1]/complete level[1]/UI_Text_Awesome[1],610,1460,1044,324
+root[1]/complete level[1]/UI_Complete_Halo[0],621,1458,1242,876
+root[1]/Gameplay[0]/UI_icon_youtube[5],932.5,1987.5,55,37
+root[1]/Gameplay[0]/UI_5backStepPlus[4],932.5,2006.5,123,123
+root[1]/Gameplay[0]/UI_icon_bonus1Tube[3],1088,2090,156,92
+root[1]/Gameplay[0]/UI_icon_BackStep[2],817.5,2088.5,81,71
+root[1]/Gameplay[0]/UI_icon_restart[1],378,2090,80,84
+root[1]/Gameplay[0]/UI_icon_menu[0],144,2090.5,84,67

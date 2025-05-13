@@ -1,0 +1,12 @@
+- Firebase: 6.16.1
+- Appsflyer: 6.0.7
+- Unity IAP: 2.2.3
+- In App Purchasing: 2.2.1
+- IronSource: 7.0.31
+- ExternalDependencyManager: 1.2.161
+
+Note:
+- Sửa ID Admob
+- Receipt Validation Obfuscate
+- Sửa file json google-services Firebase
+- Appsflyer

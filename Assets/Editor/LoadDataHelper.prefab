@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1241012639098514500
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 422973332386735698}
+  - component: {fileID: 6703826371151410323}
+  m_Layer: 0
+  m_Name: LoadDataHelper
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &422973332386735698
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1241012639098514500}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.7101045, y: -0.7930144, z: -1.4528462}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6703826371151410323
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1241012639098514500}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e431b5f11eb72d3418954752d2b2f0b6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objectDataManager: {fileID: 6395867219931715024, guid: 814499db4cbd8974b9fd84ec8c6e67f5,
+    type: 3}
+  targetCsvFolder: Assets/_FruitSurvival/DataText/Editor/
+  mapName: {fileID: 11400000, guid: 4ebbad62dad7f3e448d29c6965908d08, type: 2}
+  dataTextSpawnEnemy: {fileID: 4900000, guid: a54fa43a5e12e0d4b8606a4bcad813d1, type: 3}
+  dataTextSpawnItem: {fileID: 4900000, guid: 2dc93d19374d41648a6e363a89e49f79, type: 3}
+  dataTextZone: {fileID: 4900000, guid: 6a4e59f7b9ef93742a37b926313f54b0, type: 3}
+  dataTextLevel: {fileID: 4900000, guid: 8058963bed9cd514b8304ca131d28d7a, type: 3}
+  dataTextEnemy: {fileID: 4900000, guid: 59f10bb20641ba748987f3a5f9c580da, type: 3}
+  dataTextItem: {fileID: 4900000, guid: 6baa01cdab1ee19448eea1fdb078a30b, type: 3}
+  dataTextSkillCardTier: {fileID: 4900000, guid: e683ea404ed74564398a72610103b69c,
+    type: 3}
+  dataTextSkillCardRate: {fileID: 4900000, guid: 5d196c2d5a0850a439c7d244fc842644,
+    type: 3}
+  dataTextSkillMultiShoot: {fileID: 4900000, guid: 4e200b8abec913049b31e270a83a1fcb,
+    type: 3}
+  dataTextSkillRicochet: {fileID: 4900000, guid: e80f559c34ed0fa479966875a4bb1b48,
+    type: 3}
+  dataTextSkillSplitShot: {fileID: 4900000, guid: da094f7bdb29f414781ef80fb776f12c,
+    type: 3}
+  dataTextSkillShield: {fileID: 4900000, guid: bb78dc96ee3518a478161ff0438c681f, type: 3}
+  dataTextSkillKnockback: {fileID: 4900000, guid: 0640a720e25e03c4a94cde5d2197fd24,
+    type: 3}
+  dataTextSkillRingOfFire: {fileID: 4900000, guid: 84495b8ddea441443a3f40cf04f5b676,
+    type: 3}
+  dataTextSkillJusticeWheel: {fileID: 4900000, guid: bfcdb78fd94147c4a900d663f3e43ab5,
+    type: 3}
+  dataTextSkillFreezeShot: {fileID: 4900000, guid: 2d6f0fb3d79342a47b0ce93b1875b3dc,
+    type: 3}
+  dataTextSkillMonSoon: {fileID: 4900000, guid: 5f4a612b64b285043a0d299858f13055,
+    type: 3}
+  dataTextSkillCyclone: {fileID: 4900000, guid: 414012583d39efc4e80102f06327303c,
+    type: 3}
+  dataTextSkillNuke: {fileID: 4900000, guid: 425b69605796ece468fa9b98b8debe39, type: 3}
+  dataTextSkillBonusAttack: {fileID: 4900000, guid: 1859cebae0b48824c94fc80d3d1c5712,
+    type: 3}
+  dataTextSkillBonusAttackSpeed: {fileID: 4900000, guid: 094ee91c0f0feab42ac89bece1ebb436,
+    type: 3}
+  dataTextSkillBonusMoveSpeed: {fileID: 4900000, guid: ab69cccde9dad114ea747115eb393e4b,
+    type: 3}
+  dataTextSkillBonusHP: {fileID: 4900000, guid: 63440d20d472ce3429228b90bff9d321,
+    type: 3}
+  dataTextSkillBonusCritDamage: {fileID: 4900000, guid: 3ac28d9a33588d1408badfe38d28fde5,
+    type: 3}
+  dataTextSkillBonusCritChance: {fileID: 4900000, guid: 9c8d5e63fd7ae3b4fa8277998334e8ec,
+    type: 3}
+  dataTextArtifact: {fileID: 4900000, guid: ac918e5f65f83c94a83a7bb4f02d4adb, type: 3}
+  dataTextArtifactPrice: {fileID: 4900000, guid: 515f305508a4c034286eed6661fba9bd,
+    type: 3}
+  dataTextShopData: {fileID: 4900000, guid: 4892f84e61ed6d44aa049c29353e9e57, type: 3}
+  dataTextRateChest:
+  - {fileID: 4900000, guid: 57c70c349d040cc49bd4c0c32a1e4eb3, type: 3}
+  - {fileID: 4900000, guid: a5a5bef10e67a5f49be4469e2260a8b2, type: 3}
+  - {fileID: 4900000, guid: 67cf6dcead2f86843b093b911370ebff, type: 3}
+  dataTextCostChest: {fileID: 4900000, guid: 6f0a8f355e5f2984f94ea093ea6d943b, type: 3}
+  dataTextRewardWinLose: {fileID: 4900000, guid: 0186bb86dc634e1488c6b5580ef4b63c,
+    type: 3}
+  dataTextConfig: {fileID: 4900000, guid: ea5ada4db5bb19043b109027ef261bf8, type: 3}
+  dataTextQuest: {fileID: 4900000, guid: 0b08e05074bfd0e499b772434367b87c, type: 3}
+  dataTextAchievement: {fileID: 4900000, guid: 64c6c13edf68f9a49a911f42e5b3915f, type: 3}

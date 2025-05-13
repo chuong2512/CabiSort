@@ -1,0 +1,76 @@
+
+imposter_stan_red.png
+size: 554,164
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blue/Body
+  rotate: false
+  xy: 2, 2
+  size: 135, 160
+  orig: 135, 160
+  offset: 0, 0
+  index: -1
+Blue/Eye
+  rotate: false
+  xy: 449, 13
+  size: 94, 50
+  orig: 96, 50
+  offset: 1, 0
+  index: -1
+Orange/Eye
+  rotate: false
+  xy: 449, 13
+  size: 94, 50
+  orig: 96, 50
+  offset: 1, 0
+  index: -1
+Red/Eye
+  rotate: false
+  xy: 449, 13
+  size: 94, 50
+  orig: 96, 50
+  offset: 1, 0
+  index: -1
+Blue/Eye_Shadow
+  rotate: true
+  xy: 413, 65
+  size: 97, 45
+  orig: 99, 45
+  offset: 1, 0
+  index: -1
+Orange/Body
+  rotate: false
+  xy: 139, 2
+  size: 135, 160
+  orig: 135, 160
+  offset: 0, 0
+  index: -1
+Orange/Eye_Shadow
+  rotate: true
+  xy: 460, 65
+  size: 97, 45
+  orig: 99, 45
+  offset: 1, 0
+  index: -1
+Red/Body
+  rotate: false
+  xy: 276, 2
+  size: 135, 160
+  orig: 135, 160
+  offset: 0, 0
+  index: -1
+Red/Eye_Shadow
+  rotate: true
+  xy: 507, 65
+  size: 97, 45
+  orig: 99, 45
+  offset: 1, 0
+  index: -1
+Red/Tear
+  rotate: false
+  xy: 413, 10
+  size: 34, 53
+  orig: 34, 53
+  offset: 0, 0
+  index: -1

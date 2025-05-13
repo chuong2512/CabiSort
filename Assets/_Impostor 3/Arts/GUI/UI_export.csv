@@ -1,0 +1,18 @@
+root[5]/UI_icon_shop_select[14],255,1827,170,26
+root[5]/UI_icon_shop_asd[13],993.5,1913.5,127,127
+root[5]/UI_icon_shop_adsPick[12],993.5,1913.5,127,127
+root[5]/UI_icon_shop_theme[11],622.5,1907.5,119,121
+root[5]/UI_icon_shop_themePick[10],622.5,1910,119,116
+root[5]/UI_icon_shop_tube[9],254.5,1908,61,122
+root[5]/UI_icon_shop_tubePick[8],254.5,1908,61,122
+root[5]/UI_shop_task[7],622.5,1902.5,1149,179
+root[5]/1000[6],1055.5,2102.5,191,57
+root[5]/UI_icon_coin[5],894.5,2106.5,95,109
+root[5]/UI_icon_shopback[4],133,2105,100,78
+root[5]/UI_shop_ads[3],622.5,1121.5,463,463
+root[5]/theme[2]/Ui_BG_pick[1],383.5,1540.5,543,543
+root[5]/theme[2]/+200 copy[0],634,319.000000000001,376,134
+root[5]/tube[1]/map ?[2],867.5,1544.5,427,427
+root[5]/tube[1]/UI_tube_pick[1],383.5,1544.5,543,543
+root[5]/tube[1]/+200[0],634,323,376,134
+root[5]/Layer 46[0],620.5,1104,1241,2208

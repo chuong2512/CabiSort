@@ -1,0 +1,216 @@
+
+imposter_stan_red.png
+size: 1740,164
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+black_1/Body
+  rotate: false
+  xy: 2, 2
+  size: 135, 160
+  orig: 135, 160
+  offset: 0, 0
+  index: -1
+black_1/glasse
+  rotate: false
+  xy: 1372, 13
+  size: 96, 50
+  orig: 96, 50
+  offset: 0, 0
+  index: -1
+blue_1/glasse
+  rotate: false
+  xy: 1372, 13
+  size: 96, 50
+  orig: 96, 50
+  offset: 0, 0
+  index: -1
+brown_1/glasse
+  rotate: false
+  xy: 1372, 13
+  size: 96, 50
+  orig: 96, 50
+  offset: 0, 0
+  index: -1
+green_1/glasse
+  rotate: false
+  xy: 1372, 13
+  size: 96, 50
+  orig: 96, 50
+  offset: 0, 0
+  index: -1
+orange_1/glasse
+  rotate: false
+  xy: 1372, 13
+  size: 96, 50
+  orig: 96, 50
+  offset: 0, 0
+  index: -1
+pink_1/glasse
+  rotate: false
+  xy: 1372, 13
+  size: 96, 50
+  orig: 96, 50
+  offset: 0, 0
+  index: -1
+purple_1/glasse
+  rotate: false
+  xy: 1372, 13
+  size: 96, 50
+  orig: 96, 50
+  offset: 0, 0
+  index: -1
+red_1/glasse
+  rotate: false
+  xy: 1372, 13
+  size: 96, 50
+  orig: 96, 50
+  offset: 0, 0
+  index: -1
+white_1/glasse
+  rotate: false
+  xy: 1372, 13
+  size: 96, 50
+  orig: 96, 50
+  offset: 0, 0
+  index: -1
+yellow_1/glasse
+  rotate: false
+  xy: 1372, 13
+  size: 96, 50
+  orig: 96, 50
+  offset: 0, 0
+  index: -1
+black_1/glasse_shadow
+  rotate: true
+  xy: 1372, 65
+  size: 97, 44
+  orig: 99, 45
+  offset: 1, 0
+  index: -1
+blue_1/Body
+  rotate: false
+  xy: 139, 2
+  size: 135, 160
+  orig: 135, 160
+  offset: 0, 0
+  index: -1
+blue_1/glasse_shadow
+  rotate: true
+  xy: 1418, 65
+  size: 97, 44
+  orig: 99, 45
+  offset: 1, 0
+  index: -1
+brown_1/Body
+  rotate: false
+  xy: 276, 2
+  size: 135, 160
+  orig: 135, 160
+  offset: 0, 0
+  index: -1
+brown_1/glasse_shadow
+  rotate: true
+  xy: 1464, 65
+  size: 97, 44
+  orig: 99, 45
+  offset: 1, 0
+  index: -1
+green_1/Body
+  rotate: false
+  xy: 413, 2
+  size: 135, 160
+  orig: 135, 160
+  offset: 0, 0
+  index: -1
+green_1/glasse_shadow
+  rotate: false
+  xy: 1470, 19
+  size: 97, 44
+  orig: 99, 45
+  offset: 1, 0
+  index: -1
+orange_1/Body
+  rotate: false
+  xy: 550, 2
+  size: 135, 160
+  orig: 135, 160
+  offset: 0, 0
+  index: -1
+orange_1/glasse_shadow
+  rotate: true
+  xy: 1510, 65
+  size: 97, 44
+  orig: 99, 45
+  offset: 1, 0
+  index: -1
+pink_1/Body
+  rotate: false
+  xy: 687, 2
+  size: 135, 160
+  orig: 135, 160
+  offset: 0, 0
+  index: -1
+pink_1/glasse_shadow
+  rotate: true
+  xy: 1556, 65
+  size: 97, 44
+  orig: 99, 45
+  offset: 1, 0
+  index: -1
+purple_1/Body
+  rotate: false
+  xy: 824, 2
+  size: 135, 160
+  orig: 135, 160
+  offset: 0, 0
+  index: -1
+purple_1/glasse_shadow
+  rotate: false
+  xy: 1569, 19
+  size: 97, 44
+  orig: 99, 45
+  offset: 1, 0
+  index: -1
+red_1/Body
+  rotate: false
+  xy: 961, 2
+  size: 135, 160
+  orig: 135, 160
+  offset: 0, 0
+  index: -1
+red_1/glasse_shadow
+  rotate: true
+  xy: 1602, 65
+  size: 97, 44
+  orig: 99, 45
+  offset: 1, 0
+  index: -1
+white_1/Body
+  rotate: false
+  xy: 1098, 2
+  size: 135, 160
+  orig: 135, 160
+  offset: 0, 0
+  index: -1
+white_1/glasse_shadow
+  rotate: true
+  xy: 1648, 65
+  size: 97, 44
+  orig: 99, 45
+  offset: 1, 0
+  index: -1
+yellow_1/Body
+  rotate: false
+  xy: 1235, 2
+  size: 135, 160
+  orig: 135, 160
+  offset: 0, 0
+  index: -1
+yellow_1/glasse_shadow
+  rotate: true
+  xy: 1694, 65
+  size: 97, 44
+  orig: 99, 45
+  offset: 1, 0
+  index: -1
