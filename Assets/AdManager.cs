@@ -48,18 +48,7 @@ public class AdManager : MonoBehaviour
 			Instance=this;
 
 			// show banner every scene loaded
-			SceneManager.sceneLoaded+=(Scene s,LoadSceneMode lsm) =>
-			{
-				if(PlayerPrefs.GetInt("npa",-1)==-1)
-				{
-					GDPR.SetActive(true);
-					Time.timeScale=0;
-				}
-				else
-				{
-					if(_firstInit) this.InitAd();
-				}
-			};
+			SceneManager.sceneLoaded+=(Scene s,LoadSceneMode lsm) => { };
 
 		}
 		else

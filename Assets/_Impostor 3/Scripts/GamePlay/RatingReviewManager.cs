@@ -4,17 +4,17 @@ using UnityEngine;
 
 public class RatingReviewManager : SingletonMonoDontDestroy<RatingReviewManager>
 {
-    public GameObject ratingReviewPanel;
+    //public GameObject ratingReviewPanel;
     public GameObject sorryReviewPanel;
 
     public void EnableRatingReviewPanel()
     {
-        ratingReviewPanel.SetActive(true);
+       // ratingReviewPanel.SetActive(true);
     }
     
     public void UnableRatingReviewPanel()
     {
-        ratingReviewPanel.SetActive(false);
+      //  ratingReviewPanel.SetActive(false);
     }
 
     private void EnableSorryReviewPanel()

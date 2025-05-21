@@ -31,7 +31,7 @@ public class GUIManager : SingletonMonoDontDestroy<GUIManager>
     
     public void SetDefaultGUI()
     {
-        levelText.text = "Level " + (GameManager.Instance.currentLevel  + 1);
+        levelText.text = "LV  " + (GameManager.Instance.currentLevel  + 1);
         rewindText.text = GameManager.Instance.numberRewinds.ToString();
         if (isSoundTurnOn)
         {
