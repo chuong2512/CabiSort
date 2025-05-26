@@ -10,6 +10,7 @@ public class GUIManager : SingletonMonoDontDestroy<GUIManager>
 	public GameObject  winningCanvasPanel;
 	public GameObject  videoGO;
 	public GameObject  priceGO;
+	public GameObject  shopGO;
 	public Text        levelText;
 	public Text        rewindText;
 	public AudioSource sound;
@@ -131,6 +132,10 @@ public class GUIManager : SingletonMonoDontDestroy<GUIManager>
 			{
 				GameDataManager.Instance.playerData.SubDiamond(100);
 				AddOneBox();
+			}
+			else
+			{
+				shopGO.SetActive(true);
 			}
 		}
 	}

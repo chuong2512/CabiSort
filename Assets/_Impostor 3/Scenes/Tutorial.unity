@@ -2699,6 +2699,12 @@ RectTransform:
     type: 3}
   m_PrefabInstance: {fileID: 419472526}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &419472528 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8031432048151807262, guid: 665b17638f11b744aaa66153ad6c6933,
+    type: 3}
+  m_PrefabInstance: {fileID: 419472526}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &428401961
 GameObject:
   m_ObjectHideFlags: 0
@@ -5434,6 +5440,7 @@ MonoBehaviour:
   winningCanvasPanel: {fileID: 1509964543}
   videoGO: {fileID: 1052283025}
   priceGO: {fileID: 0}
+  shopGO: {fileID: 419472528}
   levelText: {fileID: 689554871}
   rewindText: {fileID: 590371377}
   sound: {fileID: 1499973379}
